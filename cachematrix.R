@@ -1,7 +1,7 @@
 ## Functions To cache the inverse of a matrix
 
 
-## Creates a special matrix object that can cache its inverse
+## Special Matrix to cache it's Inverse
 makeCacheMatrix <- function( m = matrix() ) {
 
 	## Initializing inverse variable
@@ -14,4 +14,4 @@ makeCacheMatrix <- function( m = matrix() ) {
 
 cacheSolve <- function(x, ...) {
 
-}d
+}
